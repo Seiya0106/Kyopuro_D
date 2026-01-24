@@ -1,0 +1,2 @@
+# Kyopuro_D
+AtCoderのD問題を解いたやつを載せるリポジトリ
